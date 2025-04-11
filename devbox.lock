@@ -1,0 +1,15 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "resolved": "github:NixOS/nixpkgs/3549532663732bfd89993204d40543e9edaec4f2?lastModified=1742272065&narHash=sha256-ud8vcSzJsZ%2FCK%2Br8%2Fv0lyf4yUntVmDq6Z0A41ODfWbE%3D"
+    },
+    "nodejs@15": {
+      "last_modified": "2021-05-17T21:30:44Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/3528c4151ee7c124f5a5cb1d01cb8d6a2dd8d62d#nodejs-15_x",
+      "source": "devbox-search",
+      "version": "15.14.0"
+    }
+  }
+}
